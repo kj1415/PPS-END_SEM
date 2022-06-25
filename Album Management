@@ -46,7 +46,7 @@ int main()
 }
 void menu()
 {
-    puts("what function are you looking to do today??");
+    puts("What function are you looking to do today?");
     puts("1. Add a new song");
     puts("2. Display existing songs");
     puts("3. Exit");
